@@ -1,0 +1,13 @@
+[
+{
+"name":"Profile1",
+"keys":[
+{"name":"k1","displayName":"Key 1","function":"F13","pos":{"row":1,"col":0}},{"name":"k2","displayName":"Key 2","function":"F13","pos":{"row":1,"col":1}},{"name":"k3","displayName":"Key 3","function":"F13","pos":{"row":1,"col":2}},{"name":"k4","displayName":"Key 4","function":"F13","pos":{"row":1,"col":3}},
+{"name":"k5","displayName":"Key 5","function":"F13","pos":{"row":2,"col":0}},{"name":"k6","displayName":"Key 6","function":"F13","pos":{"row":2,"col":1}},{"name":"k7","displayName":"Key 7","function":"F13","pos":{"row":2,"col":2}},{"name":"k8","displayName":"Key 8","function":"F13","pos":{"row":2,"col":3}},
+{"name":"k9","displayName":"Key 9","function":"F13","pos":{"row":3,"col":0}},{"name":"kA","displayName":"Key 10","function":"F13","pos":{"row":3,"col":1}},{"name":"kB","displayName":"Key 11","function":"F13","pos":{"row":3,"col":2}},{"name":"kC","displayName":"Key 12","function":"F13","pos":{"row":3,"col":3}}
+]},
+{
+"name":"Add Profile"
+}
+
+]

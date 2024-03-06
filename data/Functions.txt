@@ -1,0 +1,3 @@
+Button=DELETE
+Presses the button 
+
